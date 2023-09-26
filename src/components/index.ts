@@ -1,0 +1,6 @@
+export * from './About'
+export * from './Contact'
+export * from './Education'
+export * from './Footer'
+export * from './Home'
+export * from './Skills'
