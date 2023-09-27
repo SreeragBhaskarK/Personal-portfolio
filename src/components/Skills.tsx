@@ -93,6 +93,14 @@ export const Skills = () => {
                                     <h3> TailwindCSS <span>90%</span></h3>
                                     <div className="bar"><span></span></div>
                                 </div>
+                                <div className="progress">
+                                    <h3> EJS <span>80%</span></h3>
+                                    <div className="bar"><span></span></div>
+                                </div>
+                                <div className="progress">
+                                    <h3> Handlebars <span>80%</span></h3>
+                                    <div className="bar"><span></span></div>
+                                </div>
 
 
                             </div>
@@ -112,10 +120,7 @@ export const Skills = () => {
                                     <h3> Express Js <span>90%</span></h3>
                                     <div className="bar"><span></span></div>
                                 </div>
-                                <div className="progress">
-                                    <h3> Firebase <span>70%</span></h3>
-                                    <div className="bar"><span></span></div>
-                                </div>
+                                
 
 
                             </div>
@@ -210,6 +215,10 @@ export const Skills = () => {
                                 </div>
                                 <div className="progress">
                                     <h3>Google Cloud Platform (GCP) <span>70%</span></h3>
+                                    <div className="bar"><span></span></div>
+                                </div>
+                                <div className="progress">
+                                    <h3> Firebase (Cloud Services, Hosting) <span>70%</span></h3>
                                     <div className="bar"><span></span></div>
                                 </div>
                             </div>

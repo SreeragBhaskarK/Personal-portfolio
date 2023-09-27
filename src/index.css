@@ -562,6 +562,13 @@ span {
 .skills-column:nth-child(3) .skills-content .progress:nth-child(8) .bar span {
   width: 90%;
 }
+.skills-column:nth-child(3) .skills-content .progress:nth-child(9) .bar span {
+  width: 80%;
+}
+
+.skills-column:nth-child(3) .skills-content .progress:nth-child(10) .bar span {
+  width: 80%;
+}
 
 /* back-end */
 .skills-column:nth-child(4) .skills-content .progress:nth-child(1) .bar span {
@@ -572,9 +579,7 @@ span {
   width: 90%;
 }
 
-.skills-column:nth-child(4) .skills-content .progress:nth-child(3) .bar span {
-  width: 70%;
-}
+
 
 /* database */
 .skills-column:nth-child(5) .skills-content .progress:nth-child(1) .bar span {
@@ -626,6 +631,9 @@ span {
 }
 
 .skills-column:nth-child(9) .skills-content .progress:nth-child(2) .bar span {
+  width: 70%;
+}
+.skills-column:nth-child(4) .skills-content .progress:nth-child(3) .bar span {
   width: 70%;
 }
 
